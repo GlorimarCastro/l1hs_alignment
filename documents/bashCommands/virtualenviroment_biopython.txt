@@ -1,0 +1,8 @@
+	 mkdir line1_alignment_proyect
+	 cd line1_alignment_proyect/
+	 virtualenv venv
+	 dir
+	 source venv/bin/activate
+	 pip install biopython
+	 pip install numpy-1.9
+	 pip install numpy
